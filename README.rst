@@ -1,3 +1,5 @@
+I just wrote a better read me as demonstarted in the O'Reilly video tutorial just now.
+
 httpbin(1): HTTP Request & Response Service
 ===========================================
 
